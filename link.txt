@@ -1,0 +1,24 @@
+lab https://bgplabs.net/1-setup/#defaults
+https://www.youtube.com/watch?v=cgyUXVWXiKU&list=PLmgyxPj-5jn6dr8VyA1bNIiEsjkU3YG-X
+https://www.youtube.com/channel/UCavetupobSObGi_p6Rk-uZw/videos
+
+manoj
+https://www.youtube.com/channel/UCxCuC71odfTpNpfbRktQDpw/videos
+nwlib
+https://www.youtube.com/watch?v=uTxR16pnMPM
+
+
+Set Up Your Own VPN on AWS in 2024 | Step-by-Step Guide for Beginners
+https://www.youtube.com/watch?v=OLi1mdBW_9Y
+
+BGP Route-Filtering Based On Real-Time Scenario By Using Prefix-List
+https://www.youtube.com/watch?v=9Ll_F81Ye0A&t=15s
+Building a Site-to-Site VPN from On-Prem Network to AWS Cloud (Hands-On Tutorial)
+https://www.youtube.com/watch?v=U6KnwtNHGXk&t=1495s
+
+
+lab
+https://www.youtube.com/watch?v=EjIjExuQxEM
+
+How to make IPsec site to site VPN between FortiGate and PFsense
+https://www.youtube.com/watch?v=FS_C9z-u_Fc

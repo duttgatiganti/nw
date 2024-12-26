@@ -1,0 +1,28 @@
+VPN limited to 4,5 gb
+https://www.youtube.com/watch?v=U6KnwtNHGXk&t=958s
+
+IKV2 binding lang
+IKV2 keys
+
+vpc,pvt sn,
+cg
+vpg to vpc
+rt en prop ass sn
+vpn
+down config
+sg allow vpn ep
+verify tunnel
+
+15 p
+
+create cg
+ip add router ip
+create vpg attach to vpc
+create rt edit prop
+        ass sn1,2
+create vpn static 192
+aws for redundanct create 2 tunnels
+down config
+static rt 
+sg 
+ 

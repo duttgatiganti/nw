@@ -1,0 +1,8 @@
+
+bgp
+ipsec tuunnel
+static routing
+
+
+sg 
+sig 17
